@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="FOS">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MiniProject/FOS/dist/FOS.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

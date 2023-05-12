@@ -1,0 +1,15 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+	-fx-background-image: url("Images/Bg.jpg");
+	-fx-background-size:contain;
+	-fx-background-repeat: no-repeat;
+
+}
+
+.textbox:hover {
+    -fx-border-color: blue;
+    -fx-scale-y: 1.1;
+}

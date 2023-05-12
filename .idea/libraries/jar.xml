@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MiniProject/FOS/build/classes/fos/jar/mysql-connector-java-5.1.48-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MiniProject/FOS/build/classes/fos/jar/fontawesomefx-8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
