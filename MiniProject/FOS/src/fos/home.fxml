@@ -219,7 +219,7 @@
                                           <Insets left="25.0" top="10.0" />
                                        </VBox.margin>
                                     </Text>
-                                    <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Aditya Kareer" wrappingWidth="256.09375">
+                                    <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Arjun Pareek" wrappingWidth="256.09375">
                                        <font>
                                           <Font size="16.0" />
                                        </font>
@@ -227,7 +227,7 @@
                                           <Insets left="50.0" />
                                        </VBox.margin>
                                     </Text>
-                                    <Text layoutX="10.0" layoutY="64.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Srushti Shete" wrappingWidth="258.8828125">
+                                    <Text layoutX="10.0" layoutY="64.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Kanika Chitnis" wrappingWidth="258.8828125">
                                        <font>
                                           <Font size="16.0" />
                                        </font>
@@ -235,7 +235,7 @@
                                           <Insets left="50.0" />
                                        </VBox.margin>
                                     </Text>
-                                    <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Shazmeen Shaikh" wrappingWidth="256.09375">
+                                    <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Yugrajsingh Parmar" wrappingWidth="256.09375">
                                        <font>
                                           <Font size="16.0" />
                                        </font>
